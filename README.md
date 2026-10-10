@@ -5,7 +5,7 @@
 Unofficial, typed TypeScript client for the **guest (no-login), read-only** endpoints behind [booking.uz.gov.ua](https://booking.uz.gov.ua) (Ukrzaliznytsia). Zero runtime dependencies; uses the global `fetch`. Not affiliated with or endorsed by Ukrzaliznytsia.
 
 ```ts
-import { UzClient, RecaptchaRequiredError } from './src/index.ts';
+import { UzClient, RecaptchaRequiredError } from 'uz-api';
 
 const uz = new UzClient();                        // 2 s minimum gap between calls
 const [lviv] = await uz.stations('Львів');
@@ -32,7 +32,7 @@ Prices are in kopecks; timestamps are Unix seconds.
 
 ```
 npm i
-npm test          # node:test on recorded fixtures (Node ≥ 22.18, no build step)
+npm test          # node:test on recorded fixtures (Node ≥ 22.18); `npm run build` emits `dist/`
 npm run typecheck
 ```
 

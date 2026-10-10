@@ -1,14 +1,50 @@
 {
   "name": "uz-api",
   "version": "0.1.0",
-  "description": "Unofficial typed client for the guest (no-login) read endpoints behind booking.uz.gov.ua",
+  "description": "Unofficial typed client for the guest (no-login) read endpoints behind booking.uz.gov.ua (Ukrzaliznytsia). Reverse-engineered and built with Claude and Codex: expect gaps and breaking changes.",
   "type": "module",
-  "main": "src/index.ts",
-  "license": "MIT",
-  "engines": { "node": ">=22.18" },
-  "scripts": {
-    "test": "node --test test/*.test.ts",
-    "typecheck": "tsc --noEmit"
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    }
   },
-  "devDependencies": { "@types/node": "^22.0.0", "typescript": "^5.6.0" }
+  "files": [
+    "dist",
+    "COVERAGE.md"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leon-wbr/uz-api.git"
+  },
+  "homepage": "https://github.com/leon-wbr/uz-api#readme",
+  "bugs": {
+    "url": "https://github.com/leon-wbr/uz-api/issues"
+  },
+  "keywords": [
+    "ukrzaliznytsia",
+    "uz",
+    "ukraine",
+    "railway",
+    "train",
+    "booking",
+    "unofficial",
+    "typescript"
+  ],
+  "scripts": {
+    "build": "rm -rf dist && tsc -p tsconfig.build.json",
+    "test": "node --test test/*.test.ts",
+    "typecheck": "tsc --noEmit",
+    "prepublishOnly": "npm run typecheck && npm test && npm run build"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.6.0"
+  }
 }
