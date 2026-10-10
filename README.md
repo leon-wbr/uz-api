@@ -1,5 +1,7 @@
 # uz-api
 
+> **Built with Claude and Codex.** Reverse-engineered, unofficial and AI-written: expect gaps and breaking changes.
+
 Unofficial, typed TypeScript client for the **guest (no-login), read-only** endpoints behind [booking.uz.gov.ua](https://booking.uz.gov.ua) (Ukrzaliznytsia). Zero runtime dependencies; uses the global `fetch`. Not affiliated with or endorsed by Ukrzaliznytsia.
 
 ```ts
