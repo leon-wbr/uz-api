@@ -1,0 +1,131 @@
+{
+ "station": {
+  "id": 2200001,
+  "name": "Київ-Пасажирський",
+  "slug": "kyiv-pasazhyrskyi"
+ },
+ "arrivals": [
+  {
+   "train": "68К",
+   "route": "Варшава → Київ-Пас",
+   "time": 1791616020,
+   "platform": null,
+   "delay_minutes": 205
+  },
+  {
+   "train": "895К",
+   "route": "Шостка → Фастів 1",
+   "time": 1791618420,
+   "platform": null,
+   "delay_minutes": 160
+  },
+  {
+   "train": "108К",
+   "route": "Солотвино 1 → Київ-Пас",
+   "time": 1791620760,
+   "platform": "1",
+   "delay_minutes": 95
+  },
+  {
+   "train": "733К",
+   "route": "Дніпро-Гол → Київ-Пас",
+   "time": 1791625680,
+   "platform": null,
+   "delay_minutes": 80
+  },
+  {
+   "train": "46К",
+   "route": "Ужгород → Харків-Пас",
+   "time": 1791628200,
+   "platform": null,
+   "delay_minutes": 35
+  },
+  {
+   "train": "45К",
+   "route": "Харків-Пас → Ужгород",
+   "time": 1791631440,
+   "platform": null,
+   "delay_minutes": null
+  },
+  {
+   "train": "748К",
+   "route": "Тернопіль → Київ-Пас",
+   "time": 1791634980,
+   "platform": null,
+   "delay_minutes": null
+  },
+  {
+   "train": "764К",
+   "route": "Одеса-Гол → Київ-Пас",
+   "time": 1791634980,
+   "platform": null,
+   "delay_minutes": null
+  },
+  {
+   "train": "143Д",
+   "route": "Конотоп → Рахів",
+   "time": 1791636120,
+   "platform": null,
+   "delay_minutes": null
+  },
+  {
+   "train": "643Д",
+   "route": "Суми → Рахів",
+   "time": 1791636120,
+   "platform": null,
+   "delay_minutes": null
+  }
+ ],
+ "departures": [
+  {
+   "train": "895К",
+   "route": "Шостка → Фастів 1",
+   "time": 1791618600,
+   "platform": null,
+   "delay_minutes": 160
+  },
+  {
+   "train": "46К",
+   "route": "Ужгород → Харків-Пас",
+   "time": 1791630840,
+   "platform": null,
+   "delay_minutes": 35
+  },
+  {
+   "train": "771О",
+   "route": "Київ-Пас → Хмельницький",
+   "time": 1791633300,
+   "platform": null,
+   "delay_minutes": null
+  },
+  {
+   "train": "45К",
+   "route": "Харків-Пас → Ужгород",
+   "time": 1791634080,
+   "platform": null,
+   "delay_minutes": null
+  },
+  {
+   "train": "107К",
+   "route": "Київ-Пас → Солотвино 1",
+   "time": 1791635820,
+   "platform": null,
+   "delay_minutes": null
+  },
+  {
+   "train": "143Д",
+   "route": "Конотоп → Рахів",
+   "time": 1791640080,
+   "platform": null,
+   "delay_minutes": null
+  },
+  {
+   "train": "643Д",
+   "route": "Суми → Рахів",
+   "time": 1791640080,
+   "platform": null,
+   "delay_minutes": null
+  }
+ ],
+ "peron": false
+}

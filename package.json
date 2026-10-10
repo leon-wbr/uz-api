@@ -1,0 +1,14 @@
+{
+  "name": "uz-api",
+  "version": "0.1.0",
+  "description": "Unofficial typed client for the guest (no-login) read endpoints behind booking.uz.gov.ua",
+  "type": "module",
+  "main": "src/index.ts",
+  "license": "MIT",
+  "engines": { "node": ">=22.18" },
+  "scripts": {
+    "test": "node --test test/*.test.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": { "@types/node": "^22.0.0", "typescript": "^5.6.0" }
+}

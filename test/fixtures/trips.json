@@ -1,0 +1,1970 @@
+{
+ "station_from": "Львів",
+ "station_to": "Київ-Пас",
+ "direct": [
+  {
+   "id": 14485450,
+   "depart_at": 1792265700,
+   "arrive_at": 1792288560,
+   "station_from": "Львів",
+   "station_to": "Київ-Пас",
+   "stations_time_offset": 0,
+   "train": {
+    "id": 51905,
+    "station_from": "Рахів",
+    "station_to": "Харків-Пас",
+    "number": "042Л",
+    "type": 0,
+    "wagon_classes": [
+     {
+      "id": "П",
+      "name": "Плацкарт",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places",
+       "not_side_seats"
+      ]
+     },
+     {
+      "id": "К",
+      "name": "Купе",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "Л",
+      "name": "Люкс",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner"
+      ]
+     }
+    ],
+    "info_popup": null
+   },
+   "discount": null,
+   "custom_tag": null,
+   "custom_tags": [],
+   "monitoring": {
+    "allowed": false,
+    "auto_purchase": false
+   },
+   "is_departed": false,
+   "with_iron_km_program": false,
+   "max_passengers_count": 4,
+   "distance": 0,
+   "seat_hold_enabled": true
+  },
+  {
+   "id": 14464275,
+   "depart_at": 1792265700,
+   "arrive_at": 1792288560,
+   "station_from": "Львів",
+   "station_to": "Київ-Пас",
+   "stations_time_offset": 0,
+   "train": {
+    "id": 27994,
+    "station_from": "Рахів",
+    "station_to": "Харків-Пас",
+    "number": "002Ш",
+    "type": 0,
+    "wagon_classes": [
+     {
+      "id": "П",
+      "name": "Плацкарт",
+      "free_seats": 0,
+      "price": 40752,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places",
+       "not_side_seats"
+      ]
+     },
+     {
+      "id": "КД",
+      "name": "Дитяче купе",
+      "free_seats": 5,
+      "price": 69595,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "К",
+      "name": "Купе",
+      "free_seats": 0,
+      "price": 69595,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "КЖ",
+      "name": "Жіноче купе",
+      "free_seats": 0,
+      "price": 69595,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "Л",
+      "name": "Люкс",
+      "free_seats": 9,
+      "price": 232778,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner"
+      ]
+     }
+    ],
+    "info_popup": null
+   },
+   "discount": null,
+   "custom_tag": {
+    "value": "Флагманський",
+    "color": "#B033BB",
+    "icon": null
+   },
+   "custom_tags": [
+    {
+     "value": "Флагманський",
+     "color": "#B033BB",
+     "icon": null
+    }
+   ],
+   "monitoring": {
+    "allowed": true,
+    "auto_purchase": true
+   },
+   "is_departed": false,
+   "with_iron_km_program": false,
+   "max_passengers_count": 4,
+   "distance": 563,
+   "seat_hold_enabled": true
+  },
+  {
+   "id": 14459416,
+   "depart_at": 1792186920,
+   "arrive_at": 1792210560,
+   "station_from": "Львів",
+   "station_to": "Київ-Пас",
+   "stations_time_offset": 0,
+   "train": {
+    "id": 310,
+    "station_from": "Чернівці",
+    "station_to": "Київ-Пас",
+    "number": "008Л",
+    "type": 0,
+    "wagon_classes": [
+     {
+      "id": "П",
+      "name": "Плацкарт",
+      "free_seats": 161,
+      "price": 43377,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places",
+       "not_side_seats"
+      ]
+     },
+     {
+      "id": "К",
+      "name": "Купе",
+      "free_seats": 38,
+      "price": 75104,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "Л",
+      "name": "Люкс",
+      "free_seats": 1,
+      "price": 313067,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner"
+      ]
+     }
+    ],
+    "info_popup": null
+   },
+   "discount": null,
+   "custom_tag": {
+    "value": "Флагманський",
+    "color": "#B033BB",
+    "icon": null
+   },
+   "custom_tags": [
+    {
+     "value": "Флагманський",
+     "color": "#B033BB",
+     "icon": null
+    }
+   ],
+   "monitoring": {
+    "allowed": true,
+    "auto_purchase": true
+   },
+   "is_departed": false,
+   "with_iron_km_program": false,
+   "max_passengers_count": 4,
+   "distance": 563,
+   "seat_hold_enabled": true
+  },
+  {
+   "id": 14459417,
+   "depart_at": 1792232400,
+   "arrive_at": 1792253760,
+   "station_from": "Львів",
+   "station_to": "Київ-Пас",
+   "stations_time_offset": 0,
+   "train": {
+    "id": 13944,
+    "station_from": "Будапешт-Келеті",
+    "station_to": "Київ-Пас",
+    "number": "010К",
+    "type": 0,
+    "wagon_classes": [
+     {
+      "id": "К",
+      "name": "Купе",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "Л",
+      "name": "Люкс",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner"
+      ]
+     }
+    ],
+    "info_popup": null
+   },
+   "discount": null,
+   "custom_tag": null,
+   "custom_tags": [],
+   "monitoring": {
+    "allowed": false,
+    "auto_purchase": false
+   },
+   "is_departed": false,
+   "with_iron_km_program": false,
+   "max_passengers_count": 4,
+   "distance": 0,
+   "seat_hold_enabled": true
+  },
+  {
+   "id": 14459418,
+   "depart_at": 1792185180,
+   "arrive_at": 1792217940,
+   "station_from": "Львів",
+   "station_to": "Київ-Пас",
+   "stations_time_offset": 0,
+   "train": {
+    "id": 400,
+    "station_from": "Солотв 1",
+    "station_to": "Київ-Пас",
+    "number": "013Л",
+    "type": 0,
+    "wagon_classes": [
+     {
+      "id": "П",
+      "name": "Плацкарт",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places",
+       "not_side_seats"
+      ]
+     },
+     {
+      "id": "К",
+      "name": "Купе",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "Л",
+      "name": "Люкс",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner"
+      ]
+     }
+    ],
+    "info_popup": null
+   },
+   "discount": null,
+   "custom_tag": null,
+   "custom_tags": [],
+   "monitoring": {
+    "allowed": false,
+    "auto_purchase": false
+   },
+   "is_departed": false,
+   "with_iron_km_program": false,
+   "max_passengers_count": 4,
+   "distance": 0,
+   "seat_hold_enabled": true
+  },
+  {
+   "id": 14464289,
+   "depart_at": 1792254600,
+   "arrive_at": 1792278480,
+   "station_from": "Львів",
+   "station_to": "Київ-Пас",
+   "stations_time_offset": 0,
+   "train": {
+    "id": 40021,
+    "station_from": "Чернівці",
+    "station_to": "Харків-Пас",
+    "number": "016Л",
+    "type": 0,
+    "wagon_classes": [
+     {
+      "id": "КД",
+      "name": "Дитяче купе",
+      "free_seats": 16,
+      "price": 69595,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "К",
+      "name": "Купе",
+      "free_seats": 0,
+      "price": 69595,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "КЖ",
+      "name": "Жіноче купе",
+      "free_seats": 0,
+      "price": 69595,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "Л",
+      "name": "Люкс",
+      "free_seats": 28,
+      "price": 264244,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner"
+      ]
+     }
+    ],
+    "info_popup": null
+   },
+   "discount": null,
+   "custom_tag": {
+    "value": "Флагманський",
+    "color": "#B033BB",
+    "icon": null
+   },
+   "custom_tags": [
+    {
+     "value": "Флагманський",
+     "color": "#B033BB",
+     "icon": null
+    }
+   ],
+   "monitoring": {
+    "allowed": true,
+    "auto_purchase": true
+   },
+   "is_departed": false,
+   "with_iron_km_program": false,
+   "max_passengers_count": 4,
+   "distance": 563,
+   "seat_hold_enabled": true
+  },
+  {
+   "id": 14464304,
+   "depart_at": 1792248300,
+   "arrive_at": 1792279260,
+   "station_from": "Львів",
+   "station_to": "Київ-Пас",
+   "stations_time_offset": 0,
+   "train": {
+    "id": 122,
+    "station_from": "Львів",
+    "station_to": "Харків-Пас",
+    "number": "022Л",
+    "type": 0,
+    "wagon_classes": [
+     {
+      "id": "П",
+      "name": "Плацкарт",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places",
+       "not_side_seats"
+      ]
+     },
+     {
+      "id": "КЖ",
+      "name": "Жіноче купе",
+      "free_seats": 4,
+      "price": 72582,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "К",
+      "name": "Купе",
+      "free_seats": 0,
+      "price": 72582,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "Л",
+      "name": "Люкс",
+      "free_seats": 50,
+      "price": 288452,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner"
+      ]
+     }
+    ],
+    "info_popup": null
+   },
+   "discount": null,
+   "custom_tag": null,
+   "custom_tags": [],
+   "monitoring": {
+    "allowed": true,
+    "auto_purchase": true
+   },
+   "is_departed": false,
+   "with_iron_km_program": false,
+   "max_passengers_count": 4,
+   "distance": 627,
+   "seat_hold_enabled": true
+  },
+  {
+   "id": 14459419,
+   "depart_at": 1792196400,
+   "arrive_at": 1792218360,
+   "station_from": "Львів",
+   "station_to": "Київ-Пас",
+   "stations_time_offset": 0,
+   "train": {
+    "id": 332,
+    "station_from": "Чоп",
+    "station_to": "Київ-Пас",
+    "number": "028Л",
+    "type": 0,
+    "wagon_classes": [
+     {
+      "id": "К",
+      "name": "Купе",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "Л",
+      "name": "Люкс",
+      "free_seats": 13,
+      "price": 308108,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner"
+      ]
+     }
+    ],
+    "info_popup": null
+   },
+   "discount": null,
+   "custom_tag": null,
+   "custom_tags": [],
+   "monitoring": {
+    "allowed": true,
+    "auto_purchase": true
+   },
+   "is_departed": false,
+   "with_iron_km_program": false,
+   "max_passengers_count": 4,
+   "distance": 563,
+   "seat_hold_enabled": true
+  },
+  {
+   "id": 14459420,
+   "depart_at": 1792185780,
+   "arrive_at": 1792212660,
+   "station_from": "Львів",
+   "station_to": "Київ-Пас",
+   "stations_time_offset": 0,
+   "train": {
+    "id": 443,
+    "station_from": "Ужгород",
+    "station_to": "Київ-Пас",
+    "number": "029Л",
+    "type": 0,
+    "wagon_classes": [
+     {
+      "id": "К",
+      "name": "Купе",
+      "free_seats": 4,
+      "price": 52014,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "КЖ",
+      "name": "Жіноче купе",
+      "free_seats": 17,
+      "price": 75104,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "Л",
+      "name": "Люкс",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner"
+      ]
+     }
+    ],
+    "info_popup": null
+   },
+   "discount": null,
+   "custom_tag": null,
+   "custom_tags": [],
+   "monitoring": {
+    "allowed": true,
+    "auto_purchase": true
+   },
+   "is_departed": false,
+   "with_iron_km_program": false,
+   "max_passengers_count": 4,
+   "distance": 563,
+   "seat_hold_enabled": true
+  },
+  {
+   "id": 14464337,
+   "depart_at": 1792269000,
+   "arrive_at": 1792292520,
+   "station_from": "Львів",
+   "station_to": "Київ-Пас",
+   "stations_time_offset": 0,
+   "train": {
+    "id": 316,
+    "station_from": "Івано-Фран",
+    "station_to": "Черкаси",
+    "number": "043Л",
+    "type": 0,
+    "wagon_classes": [
+     {
+      "id": "П",
+      "name": "Плацкарт",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places",
+       "not_side_seats"
+      ]
+     },
+     {
+      "id": "К",
+      "name": "Купе",
+      "free_seats": 0,
+      "price": 69595,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "КЖ",
+      "name": "Жіноче купе",
+      "free_seats": 0,
+      "price": 69595,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "Л",
+      "name": "Люкс",
+      "free_seats": 11,
+      "price": 268441,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner"
+      ]
+     }
+    ],
+    "info_popup": null
+   },
+   "discount": null,
+   "custom_tag": null,
+   "custom_tags": [],
+   "monitoring": {
+    "allowed": true,
+    "auto_purchase": true
+   },
+   "is_departed": false,
+   "with_iron_km_program": false,
+   "max_passengers_count": 4,
+   "distance": 563,
+   "seat_hold_enabled": true
+  },
+  {
+   "id": 14464354,
+   "depart_at": 1792269000,
+   "arrive_at": 1792292520,
+   "station_from": "Львів",
+   "station_to": "Київ-Пас",
+   "stations_time_offset": 0,
+   "train": {
+    "id": 448,
+    "station_from": "Трускавець",
+    "station_to": "Київ-Пас",
+    "number": "050Л",
+    "type": 0,
+    "wagon_classes": [
+     {
+      "id": "П",
+      "name": "Плацкарт",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places",
+       "not_side_seats"
+      ]
+     },
+     {
+      "id": "К",
+      "name": "Купе",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "Л",
+      "name": "Люкс",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner"
+      ]
+     }
+    ],
+    "info_popup": null
+   },
+   "discount": null,
+   "custom_tag": null,
+   "custom_tags": [],
+   "monitoring": {
+    "allowed": false,
+    "auto_purchase": false
+   },
+   "is_departed": false,
+   "with_iron_km_program": false,
+   "max_passengers_count": 4,
+   "distance": 0,
+   "seat_hold_enabled": true
+  },
+  {
+   "id": 14459421,
+   "depart_at": 1792193520,
+   "arrive_at": 1792216920,
+   "station_from": "Львів",
+   "station_to": "Київ-Пас",
+   "stations_time_offset": 0,
+   "train": {
+    "id": 13942,
+    "station_from": "Перемишль",
+    "station_to": "Київ-Пас",
+    "number": "052К",
+    "type": 0,
+    "wagon_classes": [
+     {
+      "id": "К",
+      "name": "Купе",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "Л",
+      "name": "Люкс",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner"
+      ]
+     }
+    ],
+    "info_popup": null
+   },
+   "discount": null,
+   "custom_tag": null,
+   "custom_tags": [],
+   "monitoring": {
+    "allowed": false,
+    "auto_purchase": false
+   },
+   "is_departed": false,
+   "with_iron_km_program": false,
+   "max_passengers_count": 4,
+   "distance": 0,
+   "seat_hold_enabled": true
+  },
+  {
+   "id": 14464370,
+   "depart_at": 1792270320,
+   "arrive_at": 1792301040,
+   "station_from": "Львів",
+   "station_to": "Київ-Пас",
+   "stations_time_offset": 0,
+   "train": {
+    "id": 499,
+    "station_from": "Рахів",
+    "station_to": "Київ-Пас",
+    "number": "056Л",
+    "type": 0,
+    "wagon_classes": [
+     {
+      "id": "П",
+      "name": "Плацкарт",
+      "free_seats": 0,
+      "price": 24337,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places",
+       "not_side_seats"
+      ]
+     },
+     {
+      "id": "К",
+      "name": "Купе",
+      "free_seats": 0,
+      "price": 33524,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     }
+    ],
+    "info_popup": null
+   },
+   "discount": null,
+   "custom_tag": null,
+   "custom_tags": [],
+   "monitoring": {
+    "allowed": true,
+    "auto_purchase": true
+   },
+   "is_departed": false,
+   "with_iron_km_program": false,
+   "max_passengers_count": 4,
+   "distance": 627,
+   "seat_hold_enabled": true
+  },
+  {
+   "id": 14464378,
+   "depart_at": 1792262580,
+   "arrive_at": 1792296540,
+   "station_from": "Львів",
+   "station_to": "Київ-Пас",
+   "stations_time_offset": 0,
+   "train": {
+    "id": 401,
+    "station_from": "Чоп",
+    "station_to": "Київ-Пас",
+    "number": "060Л",
+    "type": 0,
+    "wagon_classes": [
+     {
+      "id": "К",
+      "name": "Купе",
+      "free_seats": 0,
+      "price": 33524,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "Л",
+      "name": "Люкс",
+      "free_seats": 1,
+      "price": 207341,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner"
+      ]
+     }
+    ],
+    "info_popup": null
+   },
+   "discount": null,
+   "custom_tag": null,
+   "custom_tags": [],
+   "monitoring": {
+    "allowed": true,
+    "auto_purchase": true
+   },
+   "is_departed": false,
+   "with_iron_km_program": false,
+   "max_passengers_count": 4,
+   "distance": 627,
+   "seat_hold_enabled": true
+  },
+  {
+   "id": 14464396,
+   "depart_at": 1792237020,
+   "arrive_at": 1792259820,
+   "station_from": "Львів",
+   "station_to": "Київ-Пас",
+   "stations_time_offset": 0,
+   "train": {
+    "id": 13938,
+    "station_from": "Перемишль",
+    "station_to": "Харків-Пас",
+    "number": "064О",
+    "type": 0,
+    "wagon_classes": [
+     {
+      "id": "К",
+      "name": "Купе",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "Л",
+      "name": "Люкс",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner"
+      ]
+     }
+    ],
+    "info_popup": null
+   },
+   "discount": null,
+   "custom_tag": {
+    "value": "Флагманський",
+    "color": "#B033BB",
+    "icon": null
+   },
+   "custom_tags": [
+    {
+     "value": "Флагманський",
+     "color": "#B033BB",
+     "icon": null
+    }
+   ],
+   "monitoring": {
+    "allowed": false,
+    "auto_purchase": false
+   },
+   "is_departed": false,
+   "with_iron_km_program": false,
+   "max_passengers_count": 4,
+   "distance": 0,
+   "seat_hold_enabled": true
+  },
+  {
+   "id": 14464416,
+   "depart_at": 1792261800,
+   "arrive_at": 1792293360,
+   "station_from": "Львів",
+   "station_to": "Київ-Пас",
+   "stations_time_offset": 0,
+   "train": {
+    "id": 13998,
+    "station_from": "Перемишль",
+    "station_to": "Кременчук",
+    "number": "070К",
+    "type": 0,
+    "wagon_classes": [
+     {
+      "id": "К",
+      "name": "Купе",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     }
+    ],
+    "info_popup": null
+   },
+   "discount": null,
+   "custom_tag": null,
+   "custom_tags": [],
+   "monitoring": {
+    "allowed": false,
+    "auto_purchase": false
+   },
+   "is_departed": false,
+   "with_iron_km_program": false,
+   "max_passengers_count": 4,
+   "distance": 0,
+   "seat_hold_enabled": true
+  },
+  {
+   "id": 14464437,
+   "depart_at": 1792241340,
+   "arrive_at": 1792265100,
+   "station_from": "Львів",
+   "station_to": "Київ-Пас",
+   "stations_time_offset": 0,
+   "train": {
+    "id": 131,
+    "station_from": "Львів",
+    "station_to": "Дніпро-Гол",
+    "number": "080Л",
+    "type": 0,
+    "wagon_classes": [
+     {
+      "id": "К",
+      "name": "Купе",
+      "free_seats": 9,
+      "price": 69595,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "Л",
+      "name": "Люкс",
+      "free_seats": 0,
+      "price": 232778,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner"
+      ]
+     }
+    ],
+    "info_popup": null
+   },
+   "discount": null,
+   "custom_tag": {
+    "value": "Флагманський",
+    "color": "#B033BB",
+    "icon": null
+   },
+   "custom_tags": [
+    {
+     "value": "Флагманський",
+     "color": "#B033BB",
+     "icon": null
+    }
+   ],
+   "monitoring": {
+    "allowed": true,
+    "auto_purchase": true
+   },
+   "is_departed": false,
+   "with_iron_km_program": false,
+   "max_passengers_count": 4,
+   "distance": 563,
+   "seat_hold_enabled": true
+  },
+  {
+   "id": 14464446,
+   "depart_at": 1792264920,
+   "arrive_at": 1792292940,
+   "station_from": "Львів",
+   "station_to": "Київ-Пас",
+   "stations_time_offset": 0,
+   "train": {
+    "id": 200,
+    "station_from": "Ужгород",
+    "station_to": "Київ-Пас",
+    "number": "081Л",
+    "type": 0,
+    "wagon_classes": [
+     {
+      "id": "П",
+      "name": "Плацкарт",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places",
+       "not_side_seats"
+      ]
+     },
+     {
+      "id": "КД",
+      "name": "Дитяче купе",
+      "free_seats": 8,
+      "price": 72582,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "К",
+      "name": "Купе",
+      "free_seats": 0,
+      "price": 72582,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "КЖ",
+      "name": "Жіноче купе",
+      "free_seats": 0,
+      "price": 72582,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "Л",
+      "name": "Люкс",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner"
+      ]
+     }
+    ],
+    "info_popup": {
+     "title": "Wi-Fi у поїзді",
+     "description": "На борту цього поїзда є платний Wi-Fi. Будемо чесні, Starlink в Україні досі працює з обмеженнями, але працює :)",
+     "button": {
+      "text": "Зрозуміло",
+      "url": null
+     }
+    }
+   },
+   "discount": null,
+   "custom_tag": null,
+   "custom_tags": [],
+   "monitoring": {
+    "allowed": true,
+    "auto_purchase": true
+   },
+   "is_departed": false,
+   "with_iron_km_program": false,
+   "max_passengers_count": 4,
+   "distance": 627,
+   "seat_hold_enabled": true
+  },
+  {
+   "id": 14464464,
+   "depart_at": 1792267200,
+   "arrive_at": 1792293780,
+   "station_from": "Львів",
+   "station_to": "Київ-Пас",
+   "stations_time_offset": 0,
+   "train": {
+    "id": 451,
+    "station_from": "Львів",
+    "station_to": "Київ-Пас",
+    "number": "092Л",
+    "type": 0,
+    "wagon_classes": [
+     {
+      "id": "К",
+      "name": "Купе",
+      "free_seats": 54,
+      "price": 69595,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "КЖ",
+      "name": "Жіноче купе",
+      "free_seats": 0,
+      "price": 69595,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "Л",
+      "name": "Люкс",
+      "free_seats": 7,
+      "price": 232778,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner"
+      ]
+     }
+    ],
+    "info_popup": {
+     "title": "Wi-Fi у поїзді",
+     "description": "На борту цього поїзда є платний Wi-Fi. Будемо чесні, Starlink в Україні досі працює з обмеженнями, але працює :)",
+     "button": {
+      "text": "Зрозуміло",
+      "url": null
+     }
+    }
+   },
+   "discount": null,
+   "custom_tag": {
+    "value": "Флагманський",
+    "color": "#B033BB",
+    "icon": null
+   },
+   "custom_tags": [
+    {
+     "value": "Флагманський",
+     "color": "#B033BB",
+     "icon": null
+    }
+   ],
+   "monitoring": {
+    "allowed": true,
+    "auto_purchase": true
+   },
+   "is_departed": false,
+   "with_iron_km_program": false,
+   "max_passengers_count": 4,
+   "distance": 563,
+   "seat_hold_enabled": true
+  },
+  {
+   "id": 14459422,
+   "depart_at": 1792196400,
+   "arrive_at": 1792218360,
+   "station_from": "Львів",
+   "station_to": "Київ-Пас",
+   "stations_time_offset": 0,
+   "train": {
+    "id": 453,
+    "station_from": "Рахів",
+    "station_to": "Київ-Пас",
+    "number": "096Л",
+    "type": 0,
+    "wagon_classes": [
+     {
+      "id": "П",
+      "name": "Плацкарт",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places",
+       "not_side_seats"
+      ]
+     },
+     {
+      "id": "КД",
+      "name": "Дитяче купе",
+      "free_seats": 16,
+      "price": 75104,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "КЖ",
+      "name": "Жіноче купе",
+      "free_seats": 9,
+      "price": 75104,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "К",
+      "name": "Купе",
+      "free_seats": 0,
+      "price": 75104,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "Л",
+      "name": "Люкс",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner"
+      ]
+     }
+    ],
+    "info_popup": {
+     "title": "Wi-Fi у поїзді",
+     "description": "На борту цього поїзда є платний Wi-Fi. Будемо чесні, Starlink в Україні досі працює з обмеженнями, але працює :)",
+     "button": {
+      "text": "Зрозуміло",
+      "url": null
+     }
+    }
+   },
+   "discount": null,
+   "custom_tag": {
+    "value": "Флагманський",
+    "color": "#B033BB",
+    "icon": null
+   },
+   "custom_tags": [
+    {
+     "value": "Флагманський",
+     "color": "#B033BB",
+     "icon": null
+    }
+   ],
+   "monitoring": {
+    "allowed": true,
+    "auto_purchase": true
+   },
+   "is_departed": false,
+   "with_iron_km_program": false,
+   "max_passengers_count": 4,
+   "distance": 563,
+   "seat_hold_enabled": true
+  },
+  {
+   "id": 14756235,
+   "depart_at": 1792257180,
+   "arrive_at": 1792290240,
+   "station_from": "Львів",
+   "station_to": "Київ-Пас",
+   "stations_time_offset": 0,
+   "train": {
+    "id": 47194,
+    "station_from": "Львів",
+    "station_to": "Берестин",
+    "number": "104Ш",
+    "type": 0,
+    "wagon_classes": [
+     {
+      "id": "П",
+      "name": "Плацкарт",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places",
+       "not_side_seats"
+      ]
+     },
+     {
+      "id": "К",
+      "name": "Купе",
+      "free_seats": 0,
+      "price": 33524,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "Л",
+      "name": "Люкс",
+      "free_seats": 14,
+      "price": 238679,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner"
+      ]
+     }
+    ],
+    "info_popup": null
+   },
+   "discount": null,
+   "custom_tag": null,
+   "custom_tags": [],
+   "monitoring": {
+    "allowed": true,
+    "auto_purchase": true
+   },
+   "is_departed": false,
+   "with_iron_km_program": false,
+   "max_passengers_count": 4,
+   "distance": 627,
+   "seat_hold_enabled": true
+  },
+  {
+   "id": 14723765,
+   "depart_at": 1792205100,
+   "arrive_at": 1792263840,
+   "station_from": "Львів",
+   "station_to": "Київ-Пас",
+   "stations_time_offset": 0,
+   "train": {
+    "id": 7674,
+    "station_from": "Ужгород",
+    "station_to": "Харків-Пас",
+    "number": "113Л",
+    "type": 0,
+    "wagon_classes": [
+     {
+      "id": "П",
+      "name": "Плацкарт",
+      "free_seats": 15,
+      "price": 33221,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places",
+       "not_side_seats"
+      ]
+     },
+     {
+      "id": "К",
+      "name": "Купе",
+      "free_seats": 16,
+      "price": 52163,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "Л",
+      "name": "Люкс",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner"
+      ]
+     }
+    ],
+    "info_popup": null
+   },
+   "discount": null,
+   "custom_tag": null,
+   "custom_tags": [],
+   "monitoring": {
+    "allowed": true,
+    "auto_purchase": true
+   },
+   "is_departed": false,
+   "with_iron_km_program": true,
+   "max_passengers_count": 4,
+   "distance": 782,
+   "seat_hold_enabled": true
+  },
+  {
+   "id": 14464495,
+   "depart_at": 1792261800,
+   "arrive_at": 1792293360,
+   "station_from": "Львів",
+   "station_to": "Київ-Пас",
+   "stations_time_offset": 0,
+   "train": {
+    "id": 10811,
+    "station_from": "Мукачево",
+    "station_to": "Полтава-П",
+    "number": "130Л",
+    "type": 0,
+    "wagon_classes": [
+     {
+      "id": "П",
+      "name": "Плацкарт",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places",
+       "not_side_seats"
+      ]
+     },
+     {
+      "id": "К",
+      "name": "Купе",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     }
+    ],
+    "info_popup": null
+   },
+   "discount": null,
+   "custom_tag": null,
+   "custom_tags": [],
+   "monitoring": {
+    "allowed": false,
+    "auto_purchase": false
+   },
+   "is_departed": false,
+   "with_iron_km_program": false,
+   "max_passengers_count": 4,
+   "distance": 0,
+   "seat_hold_enabled": true
+  },
+  {
+   "id": 14464516,
+   "depart_at": 1792261800,
+   "arrive_at": 1792293360,
+   "station_from": "Львів",
+   "station_to": "Київ-Пас",
+   "stations_time_offset": 0,
+   "train": {
+    "id": 10798,
+    "station_from": "Мукачево",
+    "station_to": "Кременчук",
+    "number": "132Л",
+    "type": 0,
+    "wagon_classes": [
+     {
+      "id": "П",
+      "name": "Плацкарт",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places",
+       "not_side_seats"
+      ]
+     },
+     {
+      "id": "К",
+      "name": "Купе",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     }
+    ],
+    "info_popup": null
+   },
+   "discount": null,
+   "custom_tag": null,
+   "custom_tags": [],
+   "monitoring": {
+    "allowed": false,
+    "auto_purchase": false
+   },
+   "is_departed": false,
+   "with_iron_km_program": false,
+   "max_passengers_count": 4,
+   "distance": 0,
+   "seat_hold_enabled": true
+  },
+  {
+   "id": 14751756,
+   "depart_at": 1792252620,
+   "arrive_at": 1792286940,
+   "station_from": "Львів",
+   "station_to": "Київ-Пас",
+   "stations_time_offset": 0,
+   "train": {
+    "id": 521,
+    "station_from": "Рахів",
+    "station_to": "Суми",
+    "number": "144Л",
+    "type": 0,
+    "wagon_classes": [
+     {
+      "id": "П",
+      "name": "Плацкарт",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places",
+       "not_side_seats"
+      ]
+     },
+     {
+      "id": "К",
+      "name": "Купе",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     }
+    ],
+    "info_popup": null
+   },
+   "discount": null,
+   "custom_tag": null,
+   "custom_tags": [],
+   "monitoring": {
+    "allowed": false,
+    "auto_purchase": false
+   },
+   "is_departed": false,
+   "with_iron_km_program": false,
+   "max_passengers_count": 4,
+   "distance": 0,
+   "seat_hold_enabled": true
+  },
+  {
+   "id": 14459423,
+   "depart_at": 1792185180,
+   "arrive_at": 1792217940,
+   "station_from": "Львів",
+   "station_to": "Київ-Пас",
+   "stations_time_offset": 0,
+   "train": {
+    "id": 7979,
+    "station_from": "Ужгород",
+    "station_to": "Київ-Пас",
+    "number": "237Л",
+    "type": 0,
+    "wagon_classes": [
+     {
+      "id": "П",
+      "name": "Плацкарт",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places",
+       "not_side_seats"
+      ]
+     },
+     {
+      "id": "К",
+      "name": "Купе",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "Л",
+      "name": "Люкс",
+      "free_seats": 17,
+      "price": 354362,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner"
+      ]
+     }
+    ],
+    "info_popup": null
+   },
+   "discount": null,
+   "custom_tag": null,
+   "custom_tags": [],
+   "monitoring": {
+    "allowed": true,
+    "auto_purchase": true
+   },
+   "is_departed": false,
+   "with_iron_km_program": false,
+   "max_passengers_count": 4,
+   "distance": 627,
+   "seat_hold_enabled": true
+  },
+  {
+   "id": 14464538,
+   "depart_at": 1792222200,
+   "arrive_at": 1792247700,
+   "station_from": "Львів",
+   "station_to": "Київ-Пас",
+   "stations_time_offset": 0,
+   "train": {
+    "id": 191,
+    "station_from": "Перемишль",
+    "station_to": "Київ-Пас",
+    "number": "706Л",
+    "type": 2,
+    "wagon_classes": [
+     {
+      "id": "С1",
+      "name": "1 клас",
+      "free_seats": 121,
+      "price": 150876,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "near_window"
+      ]
+     },
+     {
+      "id": "С2",
+      "name": "2 клас",
+      "free_seats": 230,
+      "price": 51384,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "near_window"
+      ]
+     }
+    ],
+    "info_popup": null
+   },
+   "discount": null,
+   "custom_tag": null,
+   "custom_tags": [],
+   "monitoring": {
+    "allowed": true,
+    "auto_purchase": true
+   },
+   "is_departed": false,
+   "with_iron_km_program": false,
+   "max_passengers_count": 4,
+   "distance": 627,
+   "seat_hold_enabled": true
+  },
+  {
+   "id": 14464547,
+   "depart_at": 1792194300,
+   "arrive_at": 1792220400,
+   "station_from": "Львів",
+   "station_to": "Київ-Пас",
+   "stations_time_offset": 0,
+   "train": {
+    "id": 192,
+    "station_from": "Перемишль",
+    "station_to": "Київ-Пас",
+    "number": "716Л",
+    "type": 2,
+    "wagon_classes": [
+     {
+      "id": "С1",
+      "name": "1 клас",
+      "free_seats": 146,
+      "price": 180051,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "near_window"
+      ]
+     },
+     {
+      "id": "С2",
+      "name": "2 клас",
+      "free_seats": 316,
+      "price": 61691,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "near_window"
+      ]
+     }
+    ],
+    "info_popup": null
+   },
+   "discount": null,
+   "custom_tag": null,
+   "custom_tags": [],
+   "monitoring": {
+    "allowed": true,
+    "auto_purchase": true
+   },
+   "is_departed": false,
+   "with_iron_km_program": false,
+   "max_passengers_count": 4,
+   "distance": 627,
+   "seat_hold_enabled": true
+  },
+  {
+   "id": 14756236,
+   "depart_at": 1792240200,
+   "arrive_at": 1792262280,
+   "station_from": "Львів",
+   "station_to": "Київ-Пас",
+   "stations_time_offset": 0,
+   "train": {
+    "id": 508,
+    "station_from": "Львів",
+    "station_to": "Дарниця",
+    "number": "744К",
+    "type": 2,
+    "wagon_classes": [
+     {
+      "id": "С1",
+      "name": "1 клас",
+      "free_seats": 154,
+      "price": 143452,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "near_window"
+      ]
+     },
+     {
+      "id": "С2",
+      "name": "2 клас",
+      "free_seats": 366,
+      "price": 48656,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "near_window"
+      ]
+     }
+    ],
+    "info_popup": null
+   },
+   "discount": null,
+   "custom_tag": null,
+   "custom_tags": [],
+   "monitoring": {
+    "allowed": true,
+    "auto_purchase": true
+   },
+   "is_departed": false,
+   "with_iron_km_program": false,
+   "max_passengers_count": 4,
+   "distance": 563,
+   "seat_hold_enabled": true
+  },
+  {
+   "id": 14459425,
+   "depart_at": 1792224180,
+   "arrive_at": 1792245540,
+   "station_from": "Львів",
+   "station_to": "Київ-Пас",
+   "stations_time_offset": 0,
+   "train": {
+    "id": 14042,
+    "station_from": "Ужгород",
+    "station_to": "Київ-Пас",
+    "number": "347Л",
+    "type": 0,
+    "wagon_classes": [
+     {
+      "id": "К",
+      "name": "Купе",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "М",
+      "name": "RIC купе",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "С2",
+      "name": "2 клас",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "near_window"
+      ]
+     }
+    ],
+    "info_popup": null
+   },
+   "discount": null,
+   "custom_tag": null,
+   "custom_tags": [],
+   "monitoring": {
+    "allowed": false,
+    "auto_purchase": false
+   },
+   "is_departed": false,
+   "with_iron_km_program": false,
+   "max_passengers_count": 4,
+   "distance": 0,
+   "seat_hold_enabled": true
+  },
+  {
+   "id": 14464557,
+   "depart_at": 1792224180,
+   "arrive_at": 1792245540,
+   "station_from": "Львів",
+   "station_to": "Київ-Пас",
+   "stations_time_offset": 0,
+   "train": {
+    "id": 205,
+    "station_from": "Ужгород",
+    "station_to": "Київ-Пас",
+    "number": "749Ш",
+    "type": 0,
+    "wagon_classes": [
+     {
+      "id": "К",
+      "name": "Купе",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner",
+       "lower_places"
+      ]
+     },
+     {
+      "id": "Л",
+      "name": "Люкс",
+      "free_seats": 0,
+      "price": 0,
+      "amenities": [
+       "not_near_wc",
+       "with_conditioner"
+      ]
+     }
+    ],
+    "info_popup": null
+   },
+   "discount": null,
+   "custom_tag": null,
+   "custom_tags": [],
+   "monitoring": {
+    "allowed": false,
+    "auto_purchase": false
+   },
+   "is_departed": false,
+   "with_iron_km_program": false,
+   "max_passengers_count": 4,
+   "distance": 0,
+   "seat_hold_enabled": true
+  }
+ ],
+ "with_transfer": null,
+ "monitoring": null,
+ "sale_start": null
+}

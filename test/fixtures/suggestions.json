@@ -1,0 +1,66 @@
+{
+ "stations_from": [
+  {
+   "id": 2200001,
+   "name": "Київ-Пасажирський",
+   "short_name": "Київ",
+   "slug": "kyiv-pasazhyrskyi"
+  },
+  {
+   "id": 2218000,
+   "name": "Львів",
+   "short_name": "Львів",
+   "slug": null
+  },
+  {
+   "id": 2210700,
+   "name": "Дніпро-Головний",
+   "short_name": "Дніпро",
+   "slug": null
+  },
+  {
+   "id": 2210800,
+   "name": "Запоріжжя 1",
+   "short_name": "Запоріжжя",
+   "slug": null
+  },
+  {
+   "id": 2204001,
+   "name": "Харків-Пасажирський",
+   "short_name": "Харків",
+   "slug": null
+  }
+ ],
+ "stations_to": [
+  {
+   "id": 2200001,
+   "name": "Київ-Пасажирський",
+   "short_name": "Київ",
+   "slug": "kyiv-pasazhyrskyi"
+  },
+  {
+   "id": 2218000,
+   "name": "Львів",
+   "short_name": "Львів",
+   "slug": null
+  },
+  {
+   "id": 2210700,
+   "name": "Дніпро-Головний",
+   "short_name": "Дніпро",
+   "slug": null
+  },
+  {
+   "id": 2210800,
+   "name": "Запоріжжя 1",
+   "short_name": "Запоріжжя",
+   "slug": null
+  },
+  {
+   "id": 2204001,
+   "name": "Харків-Пасажирський",
+   "short_name": "Харків",
+   "slug": null
+  }
+ ]
+}

@@ -1,0 +1,256 @@
+{
+ "countries": [
+  {
+   "name_uk": "Австрія",
+   "name_en": "Austria",
+   "emoji": "🇦🇹",
+   "code": "+43"
+  },
+  {
+   "name_uk": "Бельгія",
+   "name_en": "Belgium",
+   "emoji": "🇧🇪",
+   "code": "+32"
+  },
+  {
+   "name_uk": "Болгарія",
+   "name_en": "Bulgaria",
+   "emoji": "🇧🇬",
+   "code": "+359"
+  },
+  {
+   "name_uk": "Боснія і Герцеговина",
+   "name_en": "Bosnia and Herzegovina",
+   "emoji": "🇧🇦",
+   "code": "+387"
+  },
+  {
+   "name_uk": "Великобританія",
+   "name_en": "United Kingdom",
+   "emoji": "🇬🇧",
+   "code": "+44"
+  },
+  {
+   "name_uk": "Греція",
+   "name_en": "Greece",
+   "emoji": "🇬🇷",
+   "code": "+30"
+  },
+  {
+   "name_uk": "Данія",
+   "name_en": "Denmark",
+   "emoji": "🇩🇰",
+   "code": "+45"
+  },
+  {
+   "name_uk": "Естонія",
+   "name_en": "Estonia",
+   "emoji": "🇪🇪",
+   "code": "+372"
+  },
+  {
+   "name_uk": "Ірландія",
+   "name_en": "Ireland",
+   "emoji": "🇮🇪",
+   "code": "+353"
+  },
+  {
+   "name_uk": "Ісландія",
+   "name_en": "Iceland",
+   "emoji": "🇮🇸",
+   "code": "+354"
+  },
+  {
+   "name_uk": "Іспанія",
+   "name_en": "Spain",
+   "emoji": "🇪🇸",
+   "code": "+34"
+  },
+  {
+   "name_uk": "Італія",
+   "name_en": "Italy",
+   "emoji": "🇮🇹",
+   "code": "+39"
+  },
+  {
+   "name_uk": "Канада",
+   "name_en": "Canada",
+   "emoji": "🇨🇦",
+   "code": "+1"
+  },
+  {
+   "name_uk": "Кіпр",
+   "name_en": "Cyprus",
+   "emoji": "🇨🇾",
+   "code": "+357"
+  },
+  {
+   "name_uk": "Латвія",
+   "name_en": "Latvia",
+   "emoji": "🇱🇻",
+   "code": "+371"
+  },
+  {
+   "name_uk": "Литва",
+   "name_en": "Lithuania",
+   "emoji": "🇱🇹",
+   "code": "+370"
+  },
+  {
+   "name_uk": "Ліхтенштейн",
+   "name_en": "Liechtenstein",
+   "emoji": "🇱🇮",
+   "code": "+423"
+  },
+  {
+   "name_uk": "Люксембург",
+   "name_en": "Luxembourg",
+   "emoji": "🇱🇺",
+   "code": "+352"
+  },
+  {
+   "name_uk": "Македонія",
+   "name_en": "Macedonia",
+   "emoji": "🇲🇰",
+   "code": "+389"
+  },
+  {
+   "name_uk": "Мальта",
+   "name_en": "Malta",
+   "emoji": "🇲🇹",
+   "code": "+356"
+  },
+  {
+   "name_uk": "Молдова",
+   "name_en": "Moldova",
+   "emoji": "🇲🇩",
+   "code": "+373"
+  },
+  {
+   "name_uk": "Монако",
+   "name_en": "Monaco",
+   "emoji": "🇲🇨",
+   "code": "+377"
+  },
+  {
+   "name_uk": "Нідерланди",
+   "name_en": "Netherlands",
+   "emoji": "🇳🇱",
+   "code": "+31"
+  },
+  {
+   "name_uk": "Німеччина",
+   "name_en": "Germany",
+   "emoji": "🇩🇪",
+   "code": "+49"
+  },
+  {
+   "name_uk": "Норвегія",
+   "name_en": "Norway",
+   "emoji": "🇳🇴",
+   "code": "+47"
+  },
+  {
+   "name_uk": "Польща",
+   "name_en": "Poland",
+   "emoji": "🇵🇱",
+   "code": "+48"
+  },
+  {
+   "name_uk": "Португалія",
+   "name_en": "Portugal",
+   "emoji": "🇵🇹",
+   "code": "+351"
+  },
+  {
+   "name_uk": "Румунія",
+   "name_en": "Romania",
+   "emoji": "🇷🇴",
+   "code": "+40"
+  },
+  {
+   "name_uk": "Сербія",
+   "name_en": "Serbia",
+   "emoji": "🇷🇸",
+   "code": "+381"
+  },
+  {
+   "name_uk": "Словаччина",
+   "name_en": "Slovakia",
+   "emoji": "🇸🇰",
+   "code": "+421"
+  },
+  {
+   "name_uk": "Словенія",
+   "name_en": "Slovenia",
+   "emoji": "🇸🇮",
+   "code": "+386"
+  },
+  {
+   "name_uk": "США",
+   "name_en": "United States of America",
+   "emoji": "🇺🇸",
+   "code": "+1"
+  },
+  {
+   "name_uk": "Туреччина",
+   "name_en": "Turkey",
+   "emoji": "🇹🇷",
+   "code": "+90"
+  },
+  {
+   "name_uk": "Угорщина",
+   "name_en": "Hungary",
+   "emoji": "🇭🇺",
+   "code": "+36"
+  },
+  {
+   "name_uk": "Україна",
+   "name_en": "Ukraine",
+   "emoji": "🇺🇦",
+   "code": "+380"
+  },
+  {
+   "name_uk": "Фінляндія",
+   "name_en": "Finland",
+   "emoji": "🇫🇮",
+   "code": "+358"
+  },
+  {
+   "name_uk": "Франція",
+   "name_en": "France",
+   "emoji": "🇫🇷",
+   "code": "+33"
+  },
+  {
+   "name_uk": "Хорватія",
+   "name_en": "Croatia",
+   "emoji": "🇭🇷",
+   "code": "+385"
+  },
+  {
+   "name_uk": "Чехія",
+   "name_en": "Czech Republic",
+   "emoji": "🇨🇿",
+   "code": "+420"
+  },
+  {
+   "name_uk": "Чорногорія",
+   "name_en": "Montenegro",
+   "emoji": "🇲🇪",
+   "code": "+382"
+  },
+  {
+   "name_uk": "Швейцарія",
+   "name_en": "Switzerland",
+   "emoji": "🇨🇭",
+   "code": "+41"
+  },
+  {
+   "name_uk": "Швеція",
+   "name_en": "Sweden",
+   "emoji": "🇸🇪",
+   "code": "+46"
+  }
+ ]
+}
