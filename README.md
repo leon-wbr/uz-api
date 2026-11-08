@@ -4,11 +4,31 @@
 
 Unofficial, typed TypeScript client for the **guest (no-login), read-only** endpoints behind [booking.uz.gov.ua](https://booking.uz.gov.ua) (Ukrzaliznytsia). Zero runtime dependencies; uses the global `fetch`. Not affiliated with or endorsed by Ukrzaliznytsia.
 
+The built library runs on Node 20 or later. The tests run raw `.ts` files, so they need Node 22.18 or later.
+
+## Install
+
+Not on npm yet. Clone the repo and build it:
+
+```sh
+git clone https://github.com/leon-wbr/uz-api.git
+cd uz-api
+npm i
+npm run build
+```
+
+The build writes the library to `dist/`.
+
+## Usage
+
+`trips()` currently throws `RecaptchaRequiredError` (HTTP 441) from non-browser clients. The station and date calls work.
+
 ```ts
 import { UzClient, RecaptchaRequiredError } from 'uz-api';
 
 const uz = new UzClient();                        // 2 s minimum gap between calls
 const [lviv] = await uz.stations('Львів');
+// 2200001 is the station id of Kyiv-Pasazhyrskyi
 console.log(await uz.departureDates(lviv.id, 2200001, 'kyiv-pasazhyrskyi'));
 
 try {
@@ -21,6 +41,8 @@ try {
 
 Prices are in kopecks; timestamps are Unix seconds.
 
+The client waits at least 2 seconds between calls by default. Change it with the `minIntervalMs` option, for example `new UzClient({ minIntervalMs: 5000 })`. The other options are `locale` (`'uk'` or `'en'`, default `'uk'`) and `baseUrl`. See [COVERAGE.md](COVERAGE.md) for the other methods and endpoints.
+
 ## Limits, on purpose
 
 - **Read-only, guest-only.** No login, booking, payment or ticket calls, and none are planned.
@@ -30,10 +52,16 @@ Prices are in kopecks; timestamps are Unix seconds.
 
 ## Develop
 
-```
+```sh
 npm i
 npm test          # node:test on recorded fixtures (Node ≥ 22.18); `npm run build` emits `dist/`
 npm run typecheck
 ```
 
-Fixtures in `test/fixtures` are public, unauthenticated responses; they contain no personal data.
+## Contributing
+
+Bugs and ideas go to [GitHub Issues](https://github.com/leon-wbr/uz-api/issues). Fixtures in `test/fixtures` are public, unauthenticated responses. They must stay free of personal data.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
